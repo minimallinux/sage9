@@ -5,9 +5,9 @@
 
 ##P A McGowan
 
-Sage 9, sample custom templates and images etc, for pages, hard code templates and select in WP-Admin (leave page blank) or create new ones, decent size footer with 5 columns for image/links etc using widgets.. Switch different header in app.blade, one for front page and one for the rest.
+Sage 9, sample custom templates and images etc, for pages, hard code templates and select in WP-Admin (leave page blank) or create new ones, decent size footer with 5 columns for image/links etc using widgets. Switch different header in app.blade, one for front page and one for the rest.
 
-Woocommerce and Advanced Custom Fields/Custom Menu Classes added already, remove any not required by deleting them from resources and /app/setup.php (bottom of file)
+Woocommerce 3.3 and Advanced Custom Fields added already, remove any not required by deleting them from resources and /app/setup.php (bottom of file)
 
 Lots of extra widgets added for footer etc for links, ads or whatever. Uses Font Awesome 4.7 via CDN link in head.blade.
 
